@@ -1,0 +1,47 @@
+body
+{
+    background: #00ccf0;
+    text-align: center;
+
+}
+h1
+{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+img
+{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0  6px  8px  0 rgba(red, green, blue, alpha);
+}
+
+.column
+{
+    display: inline;
+    padding: 10px;
+
+}
